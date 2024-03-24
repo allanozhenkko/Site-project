@@ -1,3 +1,3 @@
 # Site-project
 
-this project uses a bootstrsap
+this project uses a bootstrap
