@@ -1,0 +1,75 @@
+.body {
+    background-color: rgb(154, 152, 152);
+}
+
+.menu {
+    height: 80px;
+    width: 100r;
+    display: flex;
+    align-items: center;
+    background-color: rgb(95, 95, 95);
+}
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh; 
+   }
+   
+   .image {
+    height: 70%;
+    width: 50%;
+    margin-left: 5%; 
+}
+
+.text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    float: right; 
+    margin-right: 5%;
+    margin-left: 5%;
+    width: 35%;
+    height: 80%;
+}
+
+.justified-text {
+    text-align: justify;
+    width: 100%;
+}
+
+
+.booking-link {
+    display: block;
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    margin-top: 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0%;
+    justify-content: center;
+    width: 100%;
+    text-align: center;
+}
+
+.menu a {
+    margin-left: 30px;
+   }
+
+.button {
+    
+    display: block;
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+align-items: center;
+    border-radius: 5px;
+
+}
